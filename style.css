@@ -1,0 +1,75 @@
+h1 {
+  font-family: 'Kenia';
+  color: #A4031F;
+  font: size 100px;
+  px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Kenia';
+  color: #A4031F font: size 100px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Kenia';
+  font-size: 60px;
+  color: gray;
+  text-align: center;
+}
+
+.background {
+  background-color: #A4031F
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.between {
+  justify-content: space-between;
+}
+
+
+.image {
+  width: 100px;
+  height: 100px;
+  margin-left: 7px;
+}
+
+.vertical {
+  align-items: center;
+}
+
+.picto {
+  padding-right: 10px;
+  font-size: 50px;
+}
+
+.font-familly {
+  font-family: 'Kenia';
+}
+
+.pictoi {
+  padding-right: 10px;
+  font-size: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+body {
+  background-color: #D4CDC3;
+}
+.photo{
+  width: 350px;
+  height: 350px;
+  right: 7px;;
+}
